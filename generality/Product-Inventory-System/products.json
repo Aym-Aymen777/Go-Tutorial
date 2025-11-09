@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "phone",
+    "price": 155,
+    "quantity": 10,
+    "total": 1550
+  },
+  {
+    "id": 2,
+    "name": "watch",
+    "price": 15.99,
+    "quantity": 2,
+    "total": 31.98
+  },
+  {
+    "id": 3,
+    "name": "microphone",
+    "price": 16.99,
+    "quantity": 5,
+    "total": 84.94999999999999
+  },
+  {
+    "id": 4,
+    "name": "laptopStand",
+    "price": 9.99,
+    "quantity": 20,
+    "total": 199.8
+  }
+]
